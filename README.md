@@ -9,11 +9,11 @@ To write a python program to perform binary classification.
 ## Related theoretical copncepts:
 Binary classification is a form of classification — the process of predicting categorical variables — where the output is restricted to two classes. It is used in many different data science applications, such as Medical Diagnosis, Email analysis, Marketing, etc. For example, in medical diagnosis, a binary classifier for a specific disease could take in symptoms of a patient and predict whether the patient is healthy or has a disease. The possible outcomes of the diagnosis are positive and negative.
 ## Algorithm
-1.define dataset
-2.summarize dataset shape 
-3.summarize observations by class label 
-4.summarize first few examples 
-5.plot the dataset and color the by class label
+1.define dataset\
+2.summarize dataset shape\
+3.summarize observations by class label\
+4.summarize first few examples\
+5.plot the dataset and color the by class label\
 
 ## Program:
 ```
@@ -46,7 +46,8 @@ pyplot.show()
 
 
 ## Output:
-![binary classification plot](XXX.png)
+![Screenshot (4)](https://user-images.githubusercontent.com/75234946/163752871-62f663e4-8261-4782-a0eb-88af3c29ad61.png)
+
 
 
 ## Result:
