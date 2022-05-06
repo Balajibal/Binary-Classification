@@ -1,5 +1,5 @@
-# EX NO: 02
-# DATE: 01.04.2022
+### EX NO: 02
+### DATE: 01.04.2022
 
 # <p align="center">BINARY CLASSIFICATION</p>
 ## Aim:
